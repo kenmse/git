@@ -1,5 +1,5 @@
 # git
 GIT Test
 
-##Why
+## Why
 Using this fork repo to test out basic git commands on windows 10.
